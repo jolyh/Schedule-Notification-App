@@ -1,4 +1,4 @@
-# App name
+# Schedule notification app for Zendesk
 
 This app notifies you about your upcoming shifts based on your schedule.
 This displays your `assigned schedule` to easily visualise your shift. 
