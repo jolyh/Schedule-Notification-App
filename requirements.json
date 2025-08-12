@@ -1,0 +1,9 @@
+{
+  "user_fields": {
+    "assigned_schedule": {
+      "type": "text",
+      "title": "Assigned schedule",
+      "description": "Assigned schedule ID (only 1 is supported)"
+    }
+  }
+}

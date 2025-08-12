@@ -1,0 +1,103 @@
+{
+  "schedule": {
+    "id": 123,
+    "name": "9to5 Alternated",
+    "time_zone": "UTC",
+    "created_at": "2025-08-10T20:52:36Z",
+    "updated_at": "2025-08-10T20:52:37Z",
+    "intervals": [
+      {
+        "start_time": 1980,
+        "end_time": 2040
+      },
+      {
+        "start_time": 2100,
+        "end_time": 2160
+      },
+      {
+        "start_time": 2220,
+        "end_time": 2280
+      },
+      {
+        "start_time": 2340,
+        "end_time": 2400
+      },
+      {
+        "start_time": 2460,
+        "end_time": 2520
+      },
+      {
+        "start_time": 3480,
+        "end_time": 3540
+      },
+      {
+        "start_time": 3600,
+        "end_time": 3660
+      },
+      {
+        "start_time": 3720,
+        "end_time": 3780
+      },
+      {
+        "start_time": 3840,
+        "end_time": 3900
+      },
+      {
+        "start_time": 4860,
+        "end_time": 4920
+      },
+      {
+        "start_time": 4980,
+        "end_time": 5040
+      },
+      {
+        "start_time": 5100,
+        "end_time": 5160
+      },
+      {
+        "start_time": 5220,
+        "end_time": 5280
+      },
+      {
+        "start_time": 5340,
+        "end_time": 5400
+      },
+      {
+        "start_time": 6360,
+        "end_time": 6420
+      },
+      {
+        "start_time": 6480,
+        "end_time": 6540
+      },
+      {
+        "start_time": 6600,
+        "end_time": 6660
+      },
+      {
+        "start_time": 6720,
+        "end_time": 6780
+      },
+      {
+        "start_time": 7740,
+        "end_time": 7800
+      },
+      {
+        "start_time": 7860,
+        "end_time": 7920
+      },
+      {
+        "start_time": 7980,
+        "end_time": 8040
+      },
+      {
+        "start_time": 8085,
+        "end_time": 8145
+      },
+      {
+        "start_time": 8220,
+        "end_time": 8280
+      }
+    ]
+  }
+}

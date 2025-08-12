@@ -1,0 +1,6 @@
+{
+  "parameters": {
+    "shift_reminder_time": 10,
+    "use_static_timezones": true
+  }
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%; display: flex; flex-direction: column; overflow-y: auto;" scroll="none">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    crossorigin="anonymous" />
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="./styles/main.css" />
+</head>
+
+<body style="height: 100%; display: flex; flex-direction: column; overflow-y: auto;" scroll="none">
+  <div id="content" class="container-fluid" style="flex: 1; overflow-y: auto;">
+    <p>Loading schedules...</p>
+    <button id="refresh_schedules" class="btn btn-primary">Refresh Schedules</button>
+  </div>
+
+  <!-- Handlebars Template that will be used to build the list of schedules in HTML -->
+  <script id="schedules-template" type="text/x-handlebars-template">
+    
+    <span class="text-muted mb-2" style="font-size: 0.750rem; text-align: center; width: 100%;">Current user timezone: {{userTimezone}}</span>
+    <!-- Schedule -->
+    {{#if schedule}}
+    <div class="schedule-container">
+    <!-- Schedule title and timezone badge -->
+    <h6 class="schedule-title" href="#">{{schedule.name}} <span class="badge badge-secondary">{{schedule.iana_timezone}}</span></h6>
+    <div class="table-responsive">
+      <table class="table table-bordered table-sm">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col" style="width: 25%;">Day</th>
+            <th scope="col" style="width: 75%;">Hours</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each schedule.weeklyIntervals}}
+            <tr>
+              <td class="day-cell">{{this.day}}</td>
+              <td>
+                {{#if this.intervals}}
+                  {{#each this.intervals}}
+                    <div class="interval">{{this.start_time}} - {{this.end_time}}</div>
+                  {{/each}}
+                {{else}}
+                <span class="text-muted">Closed</span>
+                {{/if}}
+              </td>
+            </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </div>
+    {{else}}
+      <p id="no_schedule_found">No schedule found.</p>
+    {{/if}}
+  </script>
+
+  <!-- Dependencies -->
+  <script src="https://static.zdassets.com/zendesk_app_framework_sdk/2.0/zaf_sdk.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/handlebars@4.3.3/dist/handlebars.min.js"></script>
+
+  <!-- Main Application Script -->
+  <script type="module">
+    import { refreshSchedule } from './scripts/main.js';
+
+    document.addEventListener('click', function (event) {
+      //console.log('Event target:', event.target);
+      event.preventDefault();
+      if (event.target.id === 'refresh_schedules') {
+        refreshSchedule();
+      }
+    });
+
+  </script>
+
+
+</body>
+
+</html>

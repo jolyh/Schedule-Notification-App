@@ -1,0 +1,18 @@
+{
+  "app": {
+    "name": "Shift Notification App",
+    "short_description": "Get notified about your shift.",
+    "long_description": "This app notifies you about your upcoming shifts based on your schedule.",
+    "installation_instructions": "Requires a user field named `assigned_schedule` to store the schedule id. Only 1 schedule per user is supported. The app will notify you about your shift start and end times and send reminders every minutes before the change. This can be configured in the app settings.",
+    "parameters": {
+      "shift_reminder_time": { 
+        "label": "Shift reminder time",
+        "helpText": "Set the time (in minutes) before a shift starts to trigger a reminder. This affects the starting and ending shift notifications."
+      },
+      "use_static_timezones": {
+        "label": "Use static timezones",
+        "helpText": "Enable this option to use static timezones instead of fetching them by API. This avoids unnecessary API calls as the timezone data is relatively static and speeds up the app. The static timezones are stored in a local JSON file."
+      }
+    }
+  }
+}

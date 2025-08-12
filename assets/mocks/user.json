@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": 123,
+    "name": "Test",
+    "time_zone": "UTC",
+    "iana_time_zone": "Etc/UTC",
+    "locale_id": 1,
+    "locale": "en-US",
+    "user_fields": {
+      "assigned_schedule": "1234567890"
+    }
+  }
+}

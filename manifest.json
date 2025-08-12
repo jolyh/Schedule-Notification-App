@@ -1,0 +1,30 @@
+{
+  "name": "Schedule Notification App",
+  "author": {
+    "name": "Arnaud Joly",
+    "email": "ajoly@zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": {
+        "url": "assets/main.html"
+      }
+    }
+  },
+  "parameters": [
+    {
+      "name": "shift_reminder_time",
+      "type": "number",
+      "default": 10
+    },
+    {
+      "name": "use_static_timezones",
+      "type": "boolean",
+      "default": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}

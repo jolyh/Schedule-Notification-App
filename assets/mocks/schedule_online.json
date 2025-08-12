@@ -1,0 +1,39 @@
+{
+  "schedule": {
+    "id": 123,
+    "name": "Online",
+    "time_zone": "UTC",
+    "created_at": "2025-08-09T19:02:16Z",
+    "updated_at": "2025-08-10T20:50:08Z",
+    "intervals": [
+      {
+        "start_time": 0,
+        "end_time": 1440
+      },
+      {
+        "start_time": 1440,
+        "end_time": 2880
+      },
+      {
+        "start_time": 2880,
+        "end_time": 4320
+      },
+      {
+        "start_time": 4320,
+        "end_time": 5760
+      },
+      {
+        "start_time": 5760,
+        "end_time": 7200
+      },
+      {
+        "start_time": 7200,
+        "end_time": 8640
+      },
+      {
+        "start_time": 8640,
+        "end_time": 10080
+      }
+    ]
+  }
+}

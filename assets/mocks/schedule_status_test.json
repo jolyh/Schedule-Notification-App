@@ -1,0 +1,131 @@
+{
+  "schedule": {
+    "id": 123,
+    "name": "Schedule Status Test",
+    "time_zone": "UTC",
+    "created_at": "2025-08-12T12:00:00Z",
+    "updated_at": "2025-08-12T12:00:00Z",
+    "intervals": [
+      {
+        "start_time": 4258,
+        "end_time": 4260
+      },
+      {
+        "start_time": 4262,
+        "end_time": 4264
+      },
+      {
+        "start_time": 4266,
+        "end_time": 4268
+      },
+      {
+        "start_time": 4270,
+        "end_time": 4272
+      },
+      {
+        "start_time": 4274,
+        "end_time": 4276
+      },
+      {
+        "start_time": 4278,
+        "end_time": 4280
+      },
+      {
+        "start_time": 4282,
+        "end_time": 4284
+      },
+      {
+        "start_time": 4286,
+        "end_time": 4288
+      },
+      {
+        "start_time": 4290,
+        "end_time": 4292
+      },
+      {
+        "start_time": 4294,
+        "end_time": 4296
+      },
+      {
+        "start_time": 4298,
+        "end_time": 4300
+      },
+      {
+        "start_time": 4302,
+        "end_time": 4304
+      },
+      {
+        "start_time": 4306,
+        "end_time": 4308
+      },
+      {
+        "start_time": 4310,
+        "end_time": 4312
+      },
+      {
+        "start_time": 4314,
+        "end_time": 4316
+      },
+      {
+        "start_time": 4318,
+        "end_time": 4320
+      },
+      {
+        "start_time": 4322,
+        "end_time": 4324
+      },
+      {
+        "start_time": 4326,
+        "end_time": 4328
+      },
+      {
+        "start_time": 4330,
+        "end_time": 4332
+      },
+      {
+        "start_time": 4334,
+        "end_time": 4336
+      },
+      {
+        "start_time": 4338,
+        "end_time": 4340
+      },
+      {
+        "start_time": 4342,
+        "end_time": 4344
+      },
+      {
+        "start_time": 4347,
+        "end_time": 4350
+      },
+      {
+        "start_time": 4353,
+        "end_time": 4356
+      },
+      {
+        "start_time": 4359,
+        "end_time": 4362
+      },
+      {
+        "start_time": 4365,
+        "end_time": 4368
+      },
+      {
+        "start_time": 4371,
+        "end_time": 4374
+      },
+      {
+        "start_time": 4377,
+        "end_time": 4380
+      },
+      {
+        "start_time": 4383,
+        "end_time": 4386
+      },
+      {
+        "start_time": 4389,
+        "end_time": 4392
+      }
+    ]
+  }
+}

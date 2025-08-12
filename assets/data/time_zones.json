@@ -1,0 +1,1073 @@
+[
+  {
+    "translated_name": "International Date Line West",
+    "name": "International Date Line West",
+    "iana_name": "Etc/GMT+12",
+    "offset": -720,
+    "formatted_offset": "GMT-12:00"
+  },
+  {
+    "translated_name": "American Samoa",
+    "name": "American Samoa",
+    "iana_name": "Pacific/Pago_Pago",
+    "offset": -660,
+    "formatted_offset": "GMT-11:00"
+  },
+  {
+    "translated_name": "Midway Island",
+    "name": "Midway Island",
+    "iana_name": "Pacific/Midway",
+    "offset": -660,
+    "formatted_offset": "GMT-11:00"
+  },
+  {
+    "translated_name": "Hawaii",
+    "name": "Hawaii",
+    "iana_name": "Pacific/Honolulu",
+    "offset": -600,
+    "formatted_offset": "GMT-10:00"
+  },
+  {
+    "translated_name": "Alaska",
+    "name": "Alaska",
+    "iana_name": "America/Juneau",
+    "offset": -480,
+    "formatted_offset": "GMT-08:00"
+  },
+  {
+    "translated_name": "Arizona",
+    "name": "Arizona",
+    "iana_name": "America/Phoenix",
+    "offset": -420,
+    "formatted_offset": "GMT-07:00"
+  },
+  {
+    "translated_name": "Mazatlan",
+    "name": "Mazatlan",
+    "iana_name": "America/Mazatlan",
+    "offset": -420,
+    "formatted_offset": "GMT-07:00"
+  },
+  {
+    "translated_name": "Pacific Time (US & Canada)",
+    "name": "Pacific Time (US & Canada)",
+    "iana_name": "America/Los_Angeles",
+    "offset": -420,
+    "formatted_offset": "GMT-07:00"
+  },
+  {
+    "translated_name": "Tijuana",
+    "name": "Tijuana",
+    "iana_name": "America/Tijuana",
+    "offset": -420,
+    "formatted_offset": "GMT-07:00"
+  },
+  {
+    "translated_name": "Central America",
+    "name": "Central America",
+    "iana_name": "America/Guatemala",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Chihuahua",
+    "name": "Chihuahua",
+    "iana_name": "America/Chihuahua",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Guadalajara",
+    "name": "Guadalajara",
+    "iana_name": "America/Mexico_City",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Mexico City",
+    "name": "Mexico City",
+    "iana_name": "America/Mexico_City",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Monterrey",
+    "name": "Monterrey",
+    "iana_name": "America/Monterrey",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Mountain Time (US & Canada)",
+    "name": "Mountain Time (US & Canada)",
+    "iana_name": "America/Denver",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Saskatchewan",
+    "name": "Saskatchewan",
+    "iana_name": "America/Regina",
+    "offset": -360,
+    "formatted_offset": "GMT-06:00"
+  },
+  {
+    "translated_name": "Bogota",
+    "name": "Bogota",
+    "iana_name": "America/Bogota",
+    "offset": -300,
+    "formatted_offset": "GMT-05:00"
+  },
+  {
+    "translated_name": "Central Time (US & Canada)",
+    "name": "Central Time (US & Canada)",
+    "iana_name": "America/Chicago",
+    "offset": -300,
+    "formatted_offset": "GMT-05:00"
+  },
+  {
+    "translated_name": "Lima",
+    "name": "Lima",
+    "iana_name": "America/Lima",
+    "offset": -300,
+    "formatted_offset": "GMT-05:00"
+  },
+  {
+    "translated_name": "Quito",
+    "name": "Quito",
+    "iana_name": "America/Lima",
+    "offset": -300,
+    "formatted_offset": "GMT-05:00"
+  },
+  {
+    "translated_name": "Caracas",
+    "name": "Caracas",
+    "iana_name": "America/Caracas",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Eastern Time (US & Canada)",
+    "name": "Eastern Time (US & Canada)",
+    "iana_name": "America/New_York",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Georgetown",
+    "name": "Georgetown",
+    "iana_name": "America/Guyana",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Indiana (East)",
+    "name": "Indiana (East)",
+    "iana_name": "America/Indiana/Indianapolis",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "La Paz",
+    "name": "La Paz",
+    "iana_name": "America/La_Paz",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Puerto Rico",
+    "name": "Puerto Rico",
+    "iana_name": "America/Puerto_Rico",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Santiago",
+    "name": "Santiago",
+    "iana_name": "America/Santiago",
+    "offset": -240,
+    "formatted_offset": "GMT-04:00"
+  },
+  {
+    "translated_name": "Atlantic Time (Canada)",
+    "name": "Atlantic Time (Canada)",
+    "iana_name": "America/Halifax",
+    "offset": -180,
+    "formatted_offset": "GMT-03:00"
+  },
+  {
+    "translated_name": "Brasilia",
+    "name": "Brasilia",
+    "iana_name": "America/Sao_Paulo",
+    "offset": -180,
+    "formatted_offset": "GMT-03:00"
+  },
+  {
+    "translated_name": "Buenos Aires",
+    "name": "Buenos Aires",
+    "iana_name": "America/Argentina/Buenos_Aires",
+    "offset": -180,
+    "formatted_offset": "GMT-03:00"
+  },
+  {
+    "translated_name": "Montevideo",
+    "name": "Montevideo",
+    "iana_name": "America/Montevideo",
+    "offset": -180,
+    "formatted_offset": "GMT-03:00"
+  },
+  {
+    "translated_name": "Newfoundland",
+    "name": "Newfoundland",
+    "iana_name": "America/St_Johns",
+    "offset": -150,
+    "formatted_offset": "GMT-02:30"
+  },
+  {
+    "translated_name": "Mid-Atlantic",
+    "name": "Mid-Atlantic",
+    "iana_name": "Atlantic/South_Georgia",
+    "offset": -120,
+    "formatted_offset": "GMT-02:00"
+  },
+  {
+    "translated_name": "Cape Verde Is.",
+    "name": "Cape Verde Is.",
+    "iana_name": "Atlantic/Cape_Verde",
+    "offset": -60,
+    "formatted_offset": "GMT-01:00"
+  },
+  {
+    "translated_name": "Greenland",
+    "name": "Greenland",
+    "iana_name": "America/Godthab",
+    "offset": -60,
+    "formatted_offset": "GMT-01:00"
+  },
+  {
+    "translated_name": "Azores",
+    "name": "Azores",
+    "iana_name": "Atlantic/Azores",
+    "offset": 0,
+    "formatted_offset": "GMT+00:00"
+  },
+  {
+    "translated_name": "Monrovia",
+    "name": "Monrovia",
+    "iana_name": "Africa/Monrovia",
+    "offset": 0,
+    "formatted_offset": "GMT+00:00"
+  },
+  {
+    "translated_name": "UTC",
+    "name": "UTC",
+    "iana_name": "Etc/UTC",
+    "offset": 0,
+    "formatted_offset": "GMT+00:00"
+  },
+  {
+    "translated_name": "Casablanca",
+    "name": "Casablanca",
+    "iana_name": "Africa/Casablanca",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "Dublin",
+    "name": "Dublin",
+    "iana_name": "Europe/Dublin",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "Edinburgh",
+    "name": "Edinburgh",
+    "iana_name": "Europe/London",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "Lisbon",
+    "name": "Lisbon",
+    "iana_name": "Europe/Lisbon",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "London",
+    "name": "London",
+    "iana_name": "Europe/London",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "West Central Africa",
+    "name": "West Central Africa",
+    "iana_name": "Africa/Algiers",
+    "offset": 60,
+    "formatted_offset": "GMT+01:00"
+  },
+  {
+    "translated_name": "Amsterdam",
+    "name": "Amsterdam",
+    "iana_name": "Europe/Amsterdam",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Belgrade",
+    "name": "Belgrade",
+    "iana_name": "Europe/Belgrade",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Berlin",
+    "name": "Berlin",
+    "iana_name": "Europe/Berlin",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Bern",
+    "name": "Bern",
+    "iana_name": "Europe/Zurich",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Bratislava",
+    "name": "Bratislava",
+    "iana_name": "Europe/Bratislava",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Brussels",
+    "name": "Brussels",
+    "iana_name": "Europe/Brussels",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Budapest",
+    "name": "Budapest",
+    "iana_name": "Europe/Budapest",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Copenhagen",
+    "name": "Copenhagen",
+    "iana_name": "Europe/Copenhagen",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Harare",
+    "name": "Harare",
+    "iana_name": "Africa/Harare",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Kaliningrad",
+    "name": "Kaliningrad",
+    "iana_name": "Europe/Kaliningrad",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Ljubljana",
+    "name": "Ljubljana",
+    "iana_name": "Europe/Ljubljana",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Madrid",
+    "name": "Madrid",
+    "iana_name": "Europe/Madrid",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Oslo",
+    "name": "Oslo",
+    "iana_name": "Europe/Oslo",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Paris",
+    "name": "Paris",
+    "iana_name": "Europe/Paris",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Prague",
+    "name": "Prague",
+    "iana_name": "Europe/Prague",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Pretoria",
+    "name": "Pretoria",
+    "iana_name": "Africa/Johannesburg",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Rome",
+    "name": "Rome",
+    "iana_name": "Europe/Rome",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Sarajevo",
+    "name": "Sarajevo",
+    "iana_name": "Europe/Sarajevo",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Skopje",
+    "name": "Skopje",
+    "iana_name": "Europe/Skopje",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Stockholm",
+    "name": "Stockholm",
+    "iana_name": "Europe/Stockholm",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Vienna",
+    "name": "Vienna",
+    "iana_name": "Europe/Vienna",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Warsaw",
+    "name": "Warsaw",
+    "iana_name": "Europe/Warsaw",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Zagreb",
+    "name": "Zagreb",
+    "iana_name": "Europe/Zagreb",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Zurich",
+    "name": "Zurich",
+    "iana_name": "Europe/Zurich",
+    "offset": 120,
+    "formatted_offset": "GMT+02:00"
+  },
+  {
+    "translated_name": "Athens",
+    "name": "Athens",
+    "iana_name": "Europe/Athens",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Baghdad",
+    "name": "Baghdad",
+    "iana_name": "Asia/Baghdad",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Bucharest",
+    "name": "Bucharest",
+    "iana_name": "Europe/Bucharest",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Cairo",
+    "name": "Cairo",
+    "iana_name": "Africa/Cairo",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Helsinki",
+    "name": "Helsinki",
+    "iana_name": "Europe/Helsinki",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Istanbul",
+    "name": "Istanbul",
+    "iana_name": "Europe/Istanbul",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Jerusalem",
+    "name": "Jerusalem",
+    "iana_name": "Asia/Jerusalem",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Kuwait",
+    "name": "Kuwait",
+    "iana_name": "Asia/Kuwait",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Kyiv",
+    "name": "Kyiv",
+    "iana_name": "Europe/Kiev",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Minsk",
+    "name": "Minsk",
+    "iana_name": "Europe/Minsk",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Moscow",
+    "name": "Moscow",
+    "iana_name": "Europe/Moscow",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Nairobi",
+    "name": "Nairobi",
+    "iana_name": "Africa/Nairobi",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Riga",
+    "name": "Riga",
+    "iana_name": "Europe/Riga",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Riyadh",
+    "name": "Riyadh",
+    "iana_name": "Asia/Riyadh",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Sofia",
+    "name": "Sofia",
+    "iana_name": "Europe/Sofia",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "St. Petersburg",
+    "name": "St. Petersburg",
+    "iana_name": "Europe/Moscow",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Tallinn",
+    "name": "Tallinn",
+    "iana_name": "Europe/Tallinn",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Vilnius",
+    "name": "Vilnius",
+    "iana_name": "Europe/Vilnius",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Volgograd",
+    "name": "Volgograd",
+    "iana_name": "Europe/Volgograd",
+    "offset": 180,
+    "formatted_offset": "GMT+03:00"
+  },
+  {
+    "translated_name": "Tehran",
+    "name": "Tehran",
+    "iana_name": "Asia/Tehran",
+    "offset": 210,
+    "formatted_offset": "GMT+03:30"
+  },
+  {
+    "translated_name": "Abu Dhabi",
+    "name": "Abu Dhabi",
+    "iana_name": "Asia/Muscat",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Baku",
+    "name": "Baku",
+    "iana_name": "Asia/Baku",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Muscat",
+    "name": "Muscat",
+    "iana_name": "Asia/Muscat",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Samara",
+    "name": "Samara",
+    "iana_name": "Europe/Samara",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Tbilisi",
+    "name": "Tbilisi",
+    "iana_name": "Asia/Tbilisi",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Yerevan",
+    "name": "Yerevan",
+    "iana_name": "Asia/Yerevan",
+    "offset": 240,
+    "formatted_offset": "GMT+04:00"
+  },
+  {
+    "translated_name": "Kabul",
+    "name": "Kabul",
+    "iana_name": "Asia/Kabul",
+    "offset": 270,
+    "formatted_offset": "GMT+04:30"
+  },
+  {
+    "translated_name": "Almaty",
+    "name": "Almaty",
+    "iana_name": "Asia/Almaty",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Astana",
+    "name": "Astana",
+    "iana_name": "Asia/Almaty",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Ekaterinburg",
+    "name": "Ekaterinburg",
+    "iana_name": "Asia/Yekaterinburg",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Islamabad",
+    "name": "Islamabad",
+    "iana_name": "Asia/Karachi",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Karachi",
+    "name": "Karachi",
+    "iana_name": "Asia/Karachi",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Tashkent",
+    "name": "Tashkent",
+    "iana_name": "Asia/Tashkent",
+    "offset": 300,
+    "formatted_offset": "GMT+05:00"
+  },
+  {
+    "translated_name": "Chennai",
+    "name": "Chennai",
+    "iana_name": "Asia/Kolkata",
+    "offset": 330,
+    "formatted_offset": "GMT+05:30"
+  },
+  {
+    "translated_name": "Kolkata",
+    "name": "Kolkata",
+    "iana_name": "Asia/Kolkata",
+    "offset": 330,
+    "formatted_offset": "GMT+05:30"
+  },
+  {
+    "translated_name": "Mumbai",
+    "name": "Mumbai",
+    "iana_name": "Asia/Kolkata",
+    "offset": 330,
+    "formatted_offset": "GMT+05:30"
+  },
+  {
+    "translated_name": "New Delhi",
+    "name": "New Delhi",
+    "iana_name": "Asia/Kolkata",
+    "offset": 330,
+    "formatted_offset": "GMT+05:30"
+  },
+  {
+    "translated_name": "Sri Jayawardenepura",
+    "name": "Sri Jayawardenepura",
+    "iana_name": "Asia/Colombo",
+    "offset": 330,
+    "formatted_offset": "GMT+05:30"
+  },
+  {
+    "translated_name": "Kathmandu",
+    "name": "Kathmandu",
+    "iana_name": "Asia/Kathmandu",
+    "offset": 345,
+    "formatted_offset": "GMT+05:45"
+  },
+  {
+    "translated_name": "Dhaka",
+    "name": "Dhaka",
+    "iana_name": "Asia/Dhaka",
+    "offset": 360,
+    "formatted_offset": "GMT+06:00"
+  },
+  {
+    "translated_name": "Urumqi",
+    "name": "Urumqi",
+    "iana_name": "Asia/Urumqi",
+    "offset": 360,
+    "formatted_offset": "GMT+06:00"
+  },
+  {
+    "translated_name": "Rangoon",
+    "name": "Rangoon",
+    "iana_name": "Asia/Rangoon",
+    "offset": 390,
+    "formatted_offset": "GMT+06:30"
+  },
+  {
+    "translated_name": "Bangkok",
+    "name": "Bangkok",
+    "iana_name": "Asia/Bangkok",
+    "offset": 420,
+    "formatted_offset": "GMT+07:00"
+  },
+  {
+    "translated_name": "Hanoi",
+    "name": "Hanoi",
+    "iana_name": "Asia/Bangkok",
+    "offset": 420,
+    "formatted_offset": "GMT+07:00"
+  },
+  {
+    "translated_name": "Jakarta",
+    "name": "Jakarta",
+    "iana_name": "Asia/Jakarta",
+    "offset": 420,
+    "formatted_offset": "GMT+07:00"
+  },
+  {
+    "translated_name": "Krasnoyarsk",
+    "name": "Krasnoyarsk",
+    "iana_name": "Asia/Krasnoyarsk",
+    "offset": 420,
+    "formatted_offset": "GMT+07:00"
+  },
+  {
+    "translated_name": "Novosibirsk",
+    "name": "Novosibirsk",
+    "iana_name": "Asia/Novosibirsk",
+    "offset": 420,
+    "formatted_offset": "GMT+07:00"
+  },
+  {
+    "translated_name": "Beijing",
+    "name": "Beijing",
+    "iana_name": "Asia/Shanghai",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Chongqing",
+    "name": "Chongqing",
+    "iana_name": "Asia/Chongqing",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Hong Kong",
+    "name": "Hong Kong",
+    "iana_name": "Asia/Hong_Kong",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Irkutsk",
+    "name": "Irkutsk",
+    "iana_name": "Asia/Irkutsk",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Kuala Lumpur",
+    "name": "Kuala Lumpur",
+    "iana_name": "Asia/Kuala_Lumpur",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Perth",
+    "name": "Perth",
+    "iana_name": "Australia/Perth",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Singapore",
+    "name": "Singapore",
+    "iana_name": "Asia/Singapore",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Taipei",
+    "name": "Taipei",
+    "iana_name": "Asia/Taipei",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Ulaanbataar",
+    "name": "Ulaan Bataar",
+    "iana_name": "Asia/Ulaanbaatar",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Ulaanbaatar",
+    "name": "Ulaanbaatar",
+    "iana_name": "Asia/Ulaanbaatar",
+    "offset": 480,
+    "formatted_offset": "GMT+08:00"
+  },
+  {
+    "translated_name": "Osaka",
+    "name": "Osaka",
+    "iana_name": "Asia/Tokyo",
+    "offset": 540,
+    "formatted_offset": "GMT+09:00"
+  },
+  {
+    "translated_name": "Sapporo",
+    "name": "Sapporo",
+    "iana_name": "Asia/Tokyo",
+    "offset": 540,
+    "formatted_offset": "GMT+09:00"
+  },
+  {
+    "translated_name": "Seoul",
+    "name": "Seoul",
+    "iana_name": "Asia/Seoul",
+    "offset": 540,
+    "formatted_offset": "GMT+09:00"
+  },
+  {
+    "translated_name": "Tokyo",
+    "name": "Tokyo",
+    "iana_name": "Asia/Tokyo",
+    "offset": 540,
+    "formatted_offset": "GMT+09:00"
+  },
+  {
+    "translated_name": "Yakutsk",
+    "name": "Yakutsk",
+    "iana_name": "Asia/Yakutsk",
+    "offset": 540,
+    "formatted_offset": "GMT+09:00"
+  },
+  {
+    "translated_name": "Adelaide",
+    "name": "Adelaide",
+    "iana_name": "Australia/Adelaide",
+    "offset": 570,
+    "formatted_offset": "GMT+09:30"
+  },
+  {
+    "translated_name": "Darwin",
+    "name": "Darwin",
+    "iana_name": "Australia/Darwin",
+    "offset": 570,
+    "formatted_offset": "GMT+09:30"
+  },
+  {
+    "translated_name": "Brisbane",
+    "name": "Brisbane",
+    "iana_name": "Australia/Brisbane",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Canberra",
+    "name": "Canberra",
+    "iana_name": "Australia/Canberra",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Guam",
+    "name": "Guam",
+    "iana_name": "Pacific/Guam",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Hobart",
+    "name": "Hobart",
+    "iana_name": "Australia/Hobart",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Melbourne",
+    "name": "Melbourne",
+    "iana_name": "Australia/Melbourne",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Port Moresby",
+    "name": "Port Moresby",
+    "iana_name": "Pacific/Port_Moresby",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Sydney",
+    "name": "Sydney",
+    "iana_name": "Australia/Sydney",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Vladivostok",
+    "name": "Vladivostok",
+    "iana_name": "Asia/Vladivostok",
+    "offset": 600,
+    "formatted_offset": "GMT+10:00"
+  },
+  {
+    "translated_name": "Magadan",
+    "name": "Magadan",
+    "iana_name": "Asia/Magadan",
+    "offset": 660,
+    "formatted_offset": "GMT+11:00"
+  },
+  {
+    "translated_name": "New Caledonia",
+    "name": "New Caledonia",
+    "iana_name": "Pacific/Noumea",
+    "offset": 660,
+    "formatted_offset": "GMT+11:00"
+  },
+  {
+    "translated_name": "Solomon Is.",
+    "name": "Solomon Is.",
+    "iana_name": "Pacific/Guadalcanal",
+    "offset": 660,
+    "formatted_offset": "GMT+11:00"
+  },
+  {
+    "translated_name": "Srednekolymsk",
+    "name": "Srednekolymsk",
+    "iana_name": "Asia/Srednekolymsk",
+    "offset": 660,
+    "formatted_offset": "GMT+11:00"
+  },
+  {
+    "translated_name": "Auckland",
+    "name": "Auckland",
+    "iana_name": "Pacific/Auckland",
+    "offset": 720,
+    "formatted_offset": "GMT+12:00"
+  },
+  {
+    "translated_name": "Fiji",
+    "name": "Fiji",
+    "iana_name": "Pacific/Fiji",
+    "offset": 720,
+    "formatted_offset": "GMT+12:00"
+  },
+  {
+    "translated_name": "Kamchatka",
+    "name": "Kamchatka",
+    "iana_name": "Asia/Kamchatka",
+    "offset": 720,
+    "formatted_offset": "GMT+12:00"
+  },
+  {
+    "translated_name": "Marshall Is.",
+    "name": "Marshall Is.",
+    "iana_name": "Pacific/Majuro",
+    "offset": 720,
+    "formatted_offset": "GMT+12:00"
+  },
+  {
+    "translated_name": "Wellington",
+    "name": "Wellington",
+    "iana_name": "Pacific/Auckland",
+    "offset": 720,
+    "formatted_offset": "GMT+12:00"
+  },
+  {
+    "translated_name": "Chatham Is.",
+    "name": "Chatham Is.",
+    "iana_name": "Pacific/Chatham",
+    "offset": 765,
+    "formatted_offset": "GMT+12:45"
+  },
+  {
+    "translated_name": "Nuku'alofa",
+    "name": "Nuku'alofa",
+    "iana_name": "Pacific/Tongatapu",
+    "offset": 780,
+    "formatted_offset": "GMT+13:00"
+  },
+  {
+    "translated_name": "Samoa",
+    "name": "Samoa",
+    "iana_name": "Pacific/Apia",
+    "offset": 780,
+    "formatted_offset": "GMT+13:00"
+  },
+  {
+    "translated_name": "Tokelau Is.",
+    "name": "Tokelau Is.",
+    "iana_name": "Pacific/Fakaofo",
+    "offset": 780,
+    "formatted_offset": "GMT+13:00"
+  }
+]
