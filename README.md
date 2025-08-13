@@ -3,6 +3,8 @@
 This app notifies you about your upcoming shifts based on your schedule.
 This displays your `assigned schedule` to easily visualise your shift. 
 
+> This is not a Zendesk owned nor developped app.
+
 ### The following information is displayed:
 
 * Your current timezone
